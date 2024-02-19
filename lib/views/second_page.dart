@@ -9,7 +9,7 @@ class SecondPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Second Page"),
+        title: const Text("Allo"),
       ),
       body: SingleChildScrollView(
           child: Center(
